@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning Rust, polishing my Python skills, and digging in to lots of tools related to aerodynamic design (:
 - 📫 How to reach me: Shoot me an email at matt.lauer@cosmicaerospace.com
 - ⚡ Fun fact: I love to disc golf 🥏
+- :computer: Check out my personal GitHub account [@mlau154](https://github.com/mlau154/)
 
 <!---
 mlaero/mlaero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
